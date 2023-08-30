@@ -9,7 +9,6 @@
     padding: 0px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: 600px 600px;
     align-items: center;
 }
 

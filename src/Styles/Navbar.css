@@ -11,7 +11,7 @@ nav {
   font-size: 1.5rem;
   font-weight: bold;
   color: #f5ebeb;
-  margin-left: 100px;
+  margin: 16px 0px 0px 100px;
 }
 
 .menu-toggle {
@@ -73,7 +73,7 @@ nav {
   }
   .logo {
     font-size: 1.5rem;
-    margin-left: 0px;
+    margin: 0;
   }
 
   .menu-toggle {
